@@ -1,0 +1,11 @@
+1.You have to install postgreSQL
+	When you install there are select mods <...Web Driver,Web Server,...>
+	You muse select <Web Driver/pgJDBC 4.2>
+2.If you installed postgreSQL,pgAdmin will be install.
+3.set the Environment Variable(4)
+	C:\Program Files\PostgreSQL\14\bin
+	C:\Program Files\PostgreSQL\9.5\lib
+	C:\Program Files\PostgreSQL\9.5\bin
+	C:\Program Files\PostgreSQL\9.5\bin
+4.And you muse create DB matching model's dbname.
+5.Run the server
